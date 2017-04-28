@@ -7,7 +7,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear
 
-[ndata, text_var, alldata] = xlsread('matlab_data.xls');
+[ndata, text_var, alldata] = xlsread('openness_data.xls');
 % Read in the data. Note that all this data is straight from the Penn World
 % Table as discussed in the data section. The Home Share variable simply is
 % 1-Imports/GDP and we drop the countries that have a value that is
