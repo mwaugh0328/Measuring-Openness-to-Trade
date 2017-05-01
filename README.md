@@ -3,4 +3,4 @@ This is the code and data associated with Ravikumar and Waugh (2016) ``Measuring
 
 Future updates will compare the relative openness index and estimates of trade costs. That is figure 3.
 
-[**Measuring Openness to Trade**](http://www.waugheconomics.com/uploads/2/2/5/6/22563786/measuring_openness.pdf), with B. Ravikumar.  Journal of Economic Dynamics and Control, Volume 72, November 2016.
+[**Measuring Openness to Trade**](http://www.waugheconomics.com/uploads/2/2/5/6/22563786/measuring_openness.pdf), with B. Ravikumar.\s\s Journal of Economic Dynamics and Control, Volume 72, November 2016.
